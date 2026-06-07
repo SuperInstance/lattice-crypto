@@ -1,0 +1,9 @@
+[package]
+name = "lattice-crypto"
+version = "0.1.0"
+edition = "2021"
+description = "Lattice-based cryptography primitives including LLL reduction, shortest vector approximation, and LWE encryption"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lattice-crypto"
+keywords = ["lattice", "cryptography", "lwe", "post-quantum", "math"]
+categories = ["cryptography", "mathematics"]
